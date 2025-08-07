@@ -17,31 +17,31 @@ All colors MUST be HSL.
     --popover: 0 0% 100%;
     --popover-foreground: 210 12% 16%;
 
-    --primary: 31 100% 52%;
+    --primary: 193 82% 31%;
     --primary-foreground: 0 0% 100%;
 
-    --secondary: 210 60% 24%;
+    --secondary: 263 85% 35%;
     --secondary-foreground: 0 0% 100%;
 
-    --muted: 48 20% 96%;
-    --muted-foreground: 210 8% 46%;
+    --muted: 220 14% 96%;
+    --muted-foreground: 215 16% 47%;
 
-    --accent: 45 100% 88%;
-    --accent-foreground: 210 12% 16%;
+    --accent: 142 69% 58%;
+    --accent-foreground: 0 0% 100%;
 
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 0 0% 100%;
 
-    --border: 48 20% 90%;
-    --input: 48 20% 90%;
-    --ring: 31 100% 52%;
+    --border: 220 13% 91%;
+    --input: 220 13% 91%;
+    --ring: 193 82% 31%;
 
     /* Custom NGO theme tokens */
-    --primary-light: 31 100% 60%;
-    --primary-gradient: linear-gradient(135deg, hsl(31 100% 52%), hsl(31 100% 60%));
-    --secondary-gradient: linear-gradient(135deg, hsl(210 60% 24%), hsl(210 60% 32%));
-    --hero-gradient: linear-gradient(135deg, hsl(31 100% 52% / 0.95), hsl(210 60% 24% / 0.95));
-    --shadow-warm: 0 10px 30px -10px hsl(31 100% 52% / 0.3);
+    --primary-light: 193 82% 41%;
+    --primary-gradient: linear-gradient(135deg, hsl(193 82% 31%), hsl(193 82% 41%));
+    --secondary-gradient: linear-gradient(135deg, hsl(263 85% 35%), hsl(263 85% 45%));
+    --hero-gradient: linear-gradient(135deg, hsl(193 82% 31% / 0.95), hsl(263 85% 35% / 0.95));
+    --shadow-warm: 0 10px 30px -10px hsl(193 82% 31% / 0.3);
     --shadow-soft: 0 4px 20px -4px hsl(0 0% 0% / 0.1);
 
     --radius: 0.5rem;
